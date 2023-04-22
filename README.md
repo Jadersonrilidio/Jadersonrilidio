@@ -10,11 +10,10 @@
     </em>
 </p>
 
-[![Linkedin: jadersonrodrigues](https://img.shields.io/badge/-jaderson--rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)](https://www.linkedin.com/in/jaderson-rodrigues-ilidio/) [![GitHub Jaderson](https://img.shields.io/github/followers/Jadersonrilidio?label=Follow&style=social)](https://github.com/Jadersonrilidio)
+[![Linkedin: jadersonrodrigues](https://img.shields.io/badge/-jadersonrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)](https://www.linkedin.com/in/jaderson-rodrigues-ilidio/) [![GitHub Jaderson](https://img.shields.io/github/followers/Jadersonrilidio?label=Follow&style=social)](https://github.com/Jadersonrilidio)
 
 
-More information available at `description.json` file:
-
+More information at `description.json` file:
 
 ```json
 {
