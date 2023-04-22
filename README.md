@@ -24,6 +24,8 @@ More information at `description.json` file:
 
 
 [![Jaderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadersonrilidio)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jaderson's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadersonrilidio&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 |
 <a href="https://github.com/anuraghazra/github-readme-stats">
