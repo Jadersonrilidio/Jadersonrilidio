@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Jaderson!
 
-<!--
-**Jadersonrilidio/Jadersonrilidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <em>PHP backend developer
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+        </br>
+        Currently studying at
+        <a href="https://www.alura.com.br">Alura Courses</a>
+    </em>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "pronouns": "he | him",
+    "code": ["PHP", "SQL", "HTML", "CSS", "C", "Python", "Javascript"],
+    "tools": ["composer", "postman", "phpMyAdmin", "workbench", "Lavarel", "Swagger-API-Doc", "UML", "..."],
+    "architecture": ["MVC", "DDD", "clean-architecture"],
+    "current-challenge": "I am doing the #aluraChallengeBackend 6th edition focused on PHP"
+}
+```
