@@ -3,7 +3,6 @@
 <p>
     <em>PHP backend developer
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        </br>
         Currently studying at
         <a href="https://www.alura.com.br">Alura Courses</a>
     </em>
