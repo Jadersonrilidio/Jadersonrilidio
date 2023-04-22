@@ -10,12 +10,8 @@
     </em>
 </p>
 
-[![Linkedin: jaderson-rodrigues](https://img.shields.io/badge/-jaderson--rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)](https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)
+[![Linkedin: jadersonrodrigues](https://img.shields.io/badge/-jaderson--rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)](https://www.linkedin.com/in/jaderson-rodrigues-ilidio/)[![GitHub Jaderson](https://img.shields.io/github/followers/Jadersonrilidio?label=Follow&style=social)](https://github.com/Jadersonrilidio)
 
-[![GitHub Jaderson](https://img.shields.io/github/followers/Jadersonrilidio?label=Follow&style=social)](https://github.com/Jadersonrilidio)
-
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]
 
 More information available at `description.json` file:
 
